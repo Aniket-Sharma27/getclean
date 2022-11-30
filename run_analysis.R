@@ -1,7 +1,7 @@
 
-## Name : Cherish Mahajan
-## Roll No : 102003647
-## Subject : Data Science
+## Name : Aniket Sharma
+## Roll No : 102003643
+
 
 
 #Step 0. Downloading and unzipping dataset
