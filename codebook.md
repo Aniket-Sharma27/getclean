@@ -1,7 +1,7 @@
-Getting and Cleaning Data - peer assessment project
+Getting and Cleaning Data
 
-Name : Cherish Mahajan
-Roll No. : 102003647
+Name : Aniket Sharma
+Roll No. : 102003643
 
 The original data was transformed by merging the training and the test sets to create one data set.
 Extracting only the measurements on the mean and standard deviation for each measurement.
